@@ -71,4 +71,4 @@ Expected Output:
 
 ==================
 
-## SOLUTION-IN-JAVASCRIPT
+#######Solution Rendered in JAVASCRIPT - mars.js
